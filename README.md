@@ -10,9 +10,8 @@ This app lets you keep track of your budget. Since the app is PWA it has an offl
 [Installation](#Installation)  
 [Usage](#Usage)  
 [Lisence](#License)  
-[Contribution Guideline](#custom-cont)  
-[Test Instructions](#custom-test)  
-[Questions](#custom-q)  
+[Contribution](#Contribution)  
+
 
 ## Installation 
 node server.js in CLI
@@ -43,11 +42,9 @@ MIT License
         OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
         SOFTWARE.
 
-## Contribution Guidelines
+## Contribution
 Sajal Karkee
 
-## Test Instructions
+https://github.com/skar45/
 
-
-## Questions
 
