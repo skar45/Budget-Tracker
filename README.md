@@ -17,6 +17,7 @@ This app lets you keep track of your budget. Since the app is PWA it has an offl
 node server.js in CLI
 
 ## Usage
+![1](https://user-images.githubusercontent.com/69816889/100094547-31db7400-2e27-11eb-8ebf-5c56c74cdd56.PNG)
 
 
 ## License
